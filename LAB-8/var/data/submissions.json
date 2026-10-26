@@ -1,0 +1,20 @@
+[
+    {
+        "id": "c67d1e924c8b735f",
+        "ownerId": "student_123",
+        "originalName": "Снимок экрана 2026-10-26 042410.png",
+        "serverName": "36320af3c716da3a86de08fc0ffbb378.png",
+        "mime": "image\/png",
+        "size": 29759,
+        "uploadedAt": "2026-10-26T10:01:20+01:00"
+    },
+    {
+        "id": "ca67e9e20511446e",
+        "ownerId": "student_123",
+        "originalName": "Снимок экрана 2026-10-26 042410.png",
+        "serverName": "4c0c99cda93b06d2c8d8fc0163c1a1f9.png",
+        "mime": "image\/png",
+        "size": 29759,
+        "uploadedAt": "2026-10-26T10:05:39+01:00"
+    }
+]
